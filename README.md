@@ -1,8 +1,8 @@
 # MayLeetCodingChallenge
 
 
-| Day | Problems | Solutions |
-| --- |:--------:|----------:|
+| Day | Problems | My Solutions |
+| --- |:--------:|-------------:|
 |  1  | [First Bad Version](https://leetcode.com/explore/featured/card/may-leetcoding-challenge/534/week-1-may-1st-may-7th/3316/) |  [Show Solution](https://github.com/PorokhninAlexander/MayLeetCodingChallenge/blob/master/firstWeek/1.firstBadVersion.js)  |
 |  2  | [Jewels and Stones](https://leetcode.com/explore/featured/card/may-leetcoding-challenge/534/week-1-may-1st-may-7th/3317/) | [Show Solution](https://github.com/PorokhninAlexander/MayLeetCodingChallenge/blob/master/firstWeek/2.JewelsAndStones.js) |
 |3|[Ransom Note](https://leetcode.com/explore/featured/card/may-leetcoding-challenge/534/week-1-may-1st-may-7th/3318/)|[Show Solution](https://github.com/PorokhninAlexander/MayLeetCodingChallenge/blob/master/firstWeek/3.RansomeNote.js)|
