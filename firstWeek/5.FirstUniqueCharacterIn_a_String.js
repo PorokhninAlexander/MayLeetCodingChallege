@@ -1,9 +1,11 @@
 // https://leetcode.com/explore/featured/card/may-leetcoding-challenge/534/week-1-may-1st-may-7th/3320/
 
-// Given a string, find the first non-repeating character 
-// in it and return it's index. If it doesn't exist, return -1.
+/*
+Given a string, find the first non-repeating character 
+in it and return it's index. If it doesn't exist, return -1.
+*/
 
-/////////// EXAMPLE 1:
+////////EXAMPLE 1:///////
 
 /////////////////////////
 //                     //
@@ -12,7 +14,7 @@
 //                     //
 /////////////////////////
 
-/////////// EXAMPLE 2:
+//////////EXAMPLE 2://///////
 
 /////////////////////////////
 //                         //
