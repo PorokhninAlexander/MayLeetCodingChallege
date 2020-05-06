@@ -26,19 +26,23 @@
 //////////////////////////////////
 
 var majorityElement = function(nums) {
-    let obj = {};
+
+    let container = {};
     let response;
+
     nums.forEach(item => {
-        if (obj.hasOwnProperty(item.toString())) {
-            obj[item.toString()] = obj[item.toString()] + 1;
+
+        if (container.hasOwnProperty(item.toString())) {
+            container[item.toString()] = container[item.toString()] + 1;
         } else {
-            obj[item.toString()] = 1
+            container[item.toString()] = 1
         }
     });
-    for (let val in obj) {
-        if (obj[val] > Math.floor(nums.length / 2)) response = val
+
+    for (let val in container) {
+        if (container[val] > Math.floor(nums.length / 2)) response = val
     }
-    console.log(response);
+
     return response
 };
 

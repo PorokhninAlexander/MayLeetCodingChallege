@@ -36,11 +36,11 @@ var findComplement = function(num) {
     }
 
     arr.forEach((item, i) => {
-            console.log(item * Math.pow(2, arr.length - i - 1));
-            result += item * Math.pow(2, arr.length - i - 1)
-        })
-        // console.log(arr);
-        // console.log(result);
+
+        result += item * Math.pow(2, arr.length - i - 1)
+
+    })
+
     return result;
 
 };

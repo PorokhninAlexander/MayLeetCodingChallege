@@ -23,15 +23,15 @@
 
 
 var canConstruct = function(ransomNote, magazine) {
-    let i = 0;
-    let first = ransomNote.split('');
-    let second = magazine.split('');
+    let sumIndex = 0;
+    let ransomNoteArr = ransomNote.split('');
+    let magazineArr = magazine.split('');
 
-    first.forEach(item => {
-        if (second.indexOf(item) !== -1) {
-            second.splice(second.indexOf(item), 1);
-            i += 1;
+    ransomNoteArr.forEach(item => {
+        if (magazineArr.indexOf(item) !== -1) {
+            magazineArr.splice(magazineArr.indexOf(item), 1);
+            sumIndex += 1;
         }
     })
-    return i === ransomNote.length
+    return sumIndex === ransomNote.length
 };

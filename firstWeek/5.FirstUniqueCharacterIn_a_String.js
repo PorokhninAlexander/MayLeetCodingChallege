@@ -39,7 +39,7 @@ var firstUniqChar = function(s) {
             }
         }
     }
-    console.log(index);
+    return index
 };
 
 firstUniqChar('loveleetcode');
