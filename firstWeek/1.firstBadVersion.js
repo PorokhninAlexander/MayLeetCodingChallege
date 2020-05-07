@@ -31,10 +31,7 @@ calls to the API.
 //////////////////////////////////////////////////////////////
 
 var solution = function(isBadVersion) {
-    /**
-     * @param {integer} n Total versions
-     * @return {integer} The first bad version
-     */
+
     return function(n) {
         let indexEnd = n,
             indexStart = 1;
