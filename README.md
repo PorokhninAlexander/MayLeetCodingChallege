@@ -9,8 +9,7 @@
 |4|[Number Complement](https://leetcode.com/explore/featured/card/may-leetcoding-challenge/534/week-1-may-1st-may-7th/3319/)|[Show Solution](https://github.com/PorokhninAlexander/MayLeetCodingChallenge/blob/master/firstWeek/4.NumberComplement.js)|
 |5|[First Unique Character in a String](https://leetcode.com/explore/featured/card/may-leetcoding-challenge/534/week-1-may-1st-may-7th/3320/)|[Show Solution](https://github.com/PorokhninAlexander/MayLeetCodingChallenge/blob/master/firstWeek/5.FirstUniqueCharacterIn_a_String.js)|
 |6|[Majority Element](https://leetcode.com/explore/featured/card/may-leetcoding-challenge/534/week-1-may-1st-may-7th/3321/)|[Show Solution](https://github.com/PorokhninAlexander/MayLeetCodingChallenge/blob/master/firstWeek/6.MajorityElement.js)|
-|7|[Cousins in Binary Tree
-](https://leetcode.com/explore/featured/card/may-leetcoding-challenge/534/week-1-may-1st-may-7th/3322/)|[Show Solution](https://github.com/PorokhninAlexander/MayLeetCodingChallenge/blob/master/firstWeek/7.CousinsInBinaryTree.js)|
+|7|[Cousins in Binary Tree](https://leetcode.com/explore/featured/card/may-leetcoding-challenge/534/week-1-may-1st-may-7th/3322/)|[Show Solution](https://github.com/PorokhninAlexander/MayLeetCodingChallenge/blob/master/firstWeek/7.CousinsInBinaryTree.js)|
 |8|[]()|[]()|
 |9|[]()|[]()|
 |10|[]()|[]()|
