@@ -73,7 +73,6 @@ var isCousins = function(root, x, y) {
     // this is while for sort tree
     // we push levels in arrRoot and delete levels we used
     // if level haven't left or right nodes we push null
-
     while (arrRoot.length != 0 || (arrNew.indexOf(x) == -1 && arrNew.indexOf(y) == -1)) {
         arrRoot[0] == null ? arrNew.push(null) : arrNew.push(arrRoot[0]['val']);
         if (arrRoot[0] != null) {
