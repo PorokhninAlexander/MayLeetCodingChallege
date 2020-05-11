@@ -1,4 +1,4 @@
-// 
+// https://leetcode.com/explore/featured/card/may-leetcoding-challenge/535/week-2-may-8th-may-14th/3325/
 
 /*
 In a town, there are N people labelled from 1 to N.  

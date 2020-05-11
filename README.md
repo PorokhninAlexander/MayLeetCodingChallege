@@ -12,7 +12,7 @@
 |7|[Cousins in Binary Tree](https://leetcode.com/explore/featured/card/may-leetcoding-challenge/534/week-1-may-1st-may-7th/3322/)|[Show Solution](https://github.com/PorokhninAlexander/MayLeetCodingChallenge/blob/master/firstWeek/7.CousinsInBinaryTree.js)|
 |8|[Check If It Is a Straight Line](https://leetcode.com/explore/featured/card/may-leetcoding-challenge/535/week-2-may-8th-may-14th/3323/)|[Show Solution](https://github.com/PorokhninAlexander/MayLeetCodingChallenge/blob/master/secondWeek/1.CheckIfItIs_a_StraightLine.js)|
 |9|[Valid Perfect Square](https://leetcode.com/explore/featured/card/may-leetcoding-challenge/535/week-2-may-8th-may-14th/3324/)|[Show Solution](https://github.com/PorokhninAlexander/MayLeetCodingChallenge/blob/master/secondWeek/2.ValidPerfectSquare.js)|
-|10|[]()|[]()|
+|10|[Find the Town Judge](https://leetcode.com/explore/featured/card/may-leetcoding-challenge/535/week-2-may-8th-may-14th/3325/)|[Show Solution](https://github.com/PorokhninAlexander/MayLeetCodingChallenge/blob/master/secondWeek/3.FindtheTownJudge.js)|
 |11|[]()|[]()|
 |12|[]()|[]()|
 |13|[]()|[]()|
