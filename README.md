@@ -14,26 +14,6 @@
 |9|[Valid Perfect Square](https://leetcode.com/explore/featured/card/may-leetcoding-challenge/535/week-2-may-8th-may-14th/3324/)|[Show Solution](https://github.com/PorokhninAlexander/MayLeetCodingChallenge/blob/master/secondWeek/2.ValidPerfectSquare.js)|
 |10|[Find the Town Judge](https://leetcode.com/explore/featured/card/may-leetcoding-challenge/535/week-2-may-8th-may-14th/3325/)|[Show Solution](https://github.com/PorokhninAlexander/MayLeetCodingChallenge/blob/master/secondWeek/3.FindtheTownJudge.js)|
 |11|[Flood Fill](https://leetcode.com/explore/featured/card/may-leetcoding-challenge/535/week-2-may-8th-may-14th/3326/)|[Show Solution](https://github.com/PorokhninAlexander/MayLeetCodingChallenge/blob/master/secondWeek/4.FloodFill.js)|
-|12|[]()|[]()|
-|13|[]()|[]()|
-|14|[]()|[]()|
-|15|[]()|[]()|
-|16|[]()|[]()|
-|17|[]()|[]()|
-|18|[]()|[]()|
-|19|[]()|[]()|
-|20|[]()|[]()|
-|21|[]()|[]()|
-|22|[]()|[]()|
-|23|[]()|[]()|
-|24|[]()|[]()|
-|25|[]()|[]()|
-|26|[]()|[]()|
-|27|[]()|[]()|
-|28|[]()|[]()|
-|29|[]()|[]()|
-|30|[]()|[]()|
-|31|[]()|[]()|
 
 
 
